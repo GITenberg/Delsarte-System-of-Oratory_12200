@@ -1,0 +1,48 @@
+_repo: Delsarte-System-of-Oratory_12200
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Arnaud, Angélique
+    alias: Arnaud, Angelique
+    birthdate: 1799
+    deathdate: 1884
+    gutenberg_agent_id: '39926'
+    url: http://www.gutenberg.org/2009/agents/39926
+  - agent_name: Delsarte, François
+    aliases:
+    - Delsarte, François Alexandre Nicolas Cheri
+    - Delsarte, Francois
+    birthdate: 1811
+    deathdate: 1871
+    gutenberg_agent_id: '34959'
+    url: http://www.gutenberg.org/2009/agents/34959
+  translators:
+  - agent_name: Alger, Abby Langdon
+    alias: Alger, A. L. (Abby Langdon)
+    gutenberg_agent_id: '40123'
+    url: http://www.gutenberg.org/2009/agents/40123
+  - agent_name: Shaw, Frances A.
+    gutenberg_agent_id: '37497'
+    url: http://www.gutenberg.org/2009/agents/37497
+creator:
+  author:
+    agent_name: Delaumosne
+    gutenberg_agent_id: '40080'
+    url: http://www.gutenberg.org/2009/agents/40080
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Delsarte system'
+- !lcsh 'Elocution'
+- !lcc 'PN'
+- !lcsh 'Oratory'
+- GITenberg
+title: Delsarte System of Oratory
+url: http://www.gutenberg.org/ebooks/12200
